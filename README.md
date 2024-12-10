@@ -1,6 +1,11 @@
+<h1 align="left">Helloo!👋</h1>
 
+###
 
-My name is Muhammad Fairuz Anwar✨, 
+<p align="left">My name Muhammad Fairuz Anwar</p>
+
+###
+
 
 **My Skill**
 
@@ -23,11 +28,23 @@ My name is Muhammad Fairuz Anwar✨,
   
 </div>
 
+<h2 align="left">My Social Media</h2>
 
+###
 
-
-<h2 align="center"> Contribution Graph </h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Afganirwansyahhidayat&bg_color=220a28&&color=ffffff&line=c56a90&point=39ff14&area=true&hide_border=true" border-radius="200"">
+<div align="left">
+  <a href="https://www.x.com/giri_diwa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/giri_diwa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="http://wa.me/+628125520057" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
 </div>
+
+
+
+
 
