@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Afganirwansyahhidayat" /> 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Muhammad Fairuz Anwar" /> 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Afgan+Irwansyah+Hidayat!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Fairuz Anwar!;" />
 </h1>
 
 My name is Muhammad Fairuz Anwar✨, 
